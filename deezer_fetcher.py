@@ -4,8 +4,7 @@ from song import song
 
 api = "https://api.deezer.com/"
 options = "?output=json&access_token="
-access_token = "frLHKy5pwdlJOo6WOwIz71Qsg3l7zVCCl8FtMRMqKb3JzRYSoFl"
-
+access_token = "frXsWgIyy33GKShnye9tHbDNW3iXbPao1l4VZwh9gCgVnousAfT"
 
 def construct_url(path, additional=""):
 		return api + path + options + access_token + additional

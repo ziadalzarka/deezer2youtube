@@ -1,2 +1,5 @@
+# generate code
 https://connect.deezer.com/oauth/auth.php?app_id=297144&redirect_uri=http%3A%2F%2Flocalhost&perms=basic_access%2Cemail%2Cmanage_library&dispatch_path=auth
-https://connect.deezer.com/oauth/access_token.php?app_id=297144&secret=f15fc5cdc016148df9dda0f42ce43968&code=fr40da856e1b22b17828601530623d20
+
+# get access token
+https://connect.deezer.com/oauth/access_token.php?app_id=297144&secret=f15fc5cdc016148df9dda0f42ce43968&code={code}

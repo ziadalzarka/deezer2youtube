@@ -1,4 +1,4 @@
-*.pyc
 temp
-.vscode
 songs
+*.pyc
+.vscode
